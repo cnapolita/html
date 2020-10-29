@@ -71,7 +71,7 @@ function createTable()
     ];
 
     // Construct table, row by row
-    // The first loop constructs the columns
+    // The first loop constructs the column headers
     var table = [
         '<thead>',
             '<tr>',
