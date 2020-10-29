@@ -1,0 +1,26 @@
+/*
+Cameron Napolitano
+cameron_naplitano@student.uml.edu
+UMass Lowell Student
+91.61 GUI Progamming
+10/27/2020
+This file defines the styling of table.html
+*/
+
+/* Define Table color gradient */
+.color-one   { background-color: red; }
+.color-two   { background-color: orange; }
+.color-three { background-color: yellow; }
+.color-four  { background-color: green; }
+.color-five  { background-color: deepskyblue; }
+.color-six   { background-color: royalblue; }
+.color-seven { background-color: purple; }
+
+/* Define color stylizations */
+body {
+    background-color: lightblue;
+    margin: 10px;
+}
+.diagonal {
+    background-color: white;
+}
