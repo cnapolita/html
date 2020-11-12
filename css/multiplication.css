@@ -3,8 +3,8 @@ Cameron Napolitano
 cameron_naplitano@student.uml.edu
 UMass Lowell Student
 91.61 GUI Progamming
-10/27/2020
-This file defines the styling of table.html
+11/12/2020
+This file defines the styling of table.html with and without validation
 */
 
 /* Define Table color gradient */
@@ -26,6 +26,7 @@ body {
 }
 
 /* Define appearance of errors */
+
 .error {
     color: red;
 }

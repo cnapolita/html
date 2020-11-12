@@ -11,7 +11,6 @@ I barrowed the swap functionality in one of the demos
 
 /*
 Creates a multiplation table based on inputs provided by form.
-Creates an error message instead on bad inputs.
 */
 function createTable()
 {
