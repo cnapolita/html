@@ -24,3 +24,13 @@ body {
 .diagonal {
     background-color: white;
 }
+
+/* Define appearance of errors */
+.error {
+    color: red;
+}
+
+input.error {
+    border: dashed red;
+    color: red;
+}
