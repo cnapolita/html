@@ -1,0 +1,10 @@
+#holder {
+    width: 640px;
+    height: 182px;
+    background-image: url("../graphics_data/scrabble-tile-holder-406774_640.png");
+}
+
+.tile, .board {
+    width: 90px;
+    height: 98px;
+}
