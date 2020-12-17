@@ -1,3 +1,12 @@
+/*
+Cameron Napolitano
+cameron_naplitano@student.uml.edu
+UMass Lowell Student
+91.61 GUI Progamming
+12/16/2020
+This file defines the scripts used by scrabble.html.
+*/
+
 #holder {
     width: 640px;
     height: 182px;
@@ -7,4 +16,8 @@
 .tile, .board {
     width: 90px;
     height: 98px;
+}
+
+body {
+    background-color: tan;
 }
